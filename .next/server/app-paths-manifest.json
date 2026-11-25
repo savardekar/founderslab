@@ -1,0 +1,11 @@
+{
+  "/api/[...path]/route": "app/api/[...path]/route.js",
+  "/onboarding/page": "app/onboarding/page.js",
+  "/c/[companyId]/builder/page": "app/c/[companyId]/builder/page.js",
+  "/c/[companyId]/reports/page": "app/c/[companyId]/reports/page.js",
+  "/c/[companyId]/employees/page": "app/c/[companyId]/employees/page.js",
+  "/c/[companyId]/roles/page": "app/c/[companyId]/roles/page.js",
+  "/c/[companyId]/departments/page": "app/c/[companyId]/departments/page.js",
+  "/c/[companyId]/ai-employees/page": "app/c/[companyId]/ai-employees/page.js",
+  "/c/[companyId]/dashboard/page": "app/c/[companyId]/dashboard/page.js"
+}
